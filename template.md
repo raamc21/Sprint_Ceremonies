@@ -7,23 +7,23 @@ Development team, scrum master, product owner , EDS Architect
 <br>
 
 #### 1.2 Things Required
-        1.Application team specification guide.
-        2.Business logic.
-        3.Exception scenarios 
-        4.Error codes
-        5.User message to be sent back in case of failures
+  1.Application team specification guide.
+  2.Business logic.
+  3.Exception scenarios 
+  4.Error codes
+  5.User message to be sent back in case of failures
 
 #### 1.3 Development Pre-Tasks
-       1.Firewall Request.
-       2.Load Balancer configurations.
-       3.Axway Configurations.
-       4.Autosys Configurations.
-       5.Certificate generation.
+   1.Firewall Request.
+   2.Load Balancer configurations.
+   3.Axway Configurations.
+   4.Autosys Configurations.
+   5.Certificate generation.
     
  #### 1.4 Deliverables
-       1.API Specification guide
-       2.Swagger UI
-       3.Unit test results 
+   1.API Specification guide
+   2.Swagger UI
+   3.Unit test results 
        
  
     
